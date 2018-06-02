@@ -14,8 +14,10 @@ class Restaurant: Codable {
     let id: String
     let BusinessName: String
     let AddressLine1: String
-    let AddressLine2: String? //second line of address could be optional
-    let AddressLine3: String? //as could third line
+    //second line of address could be optional
+    let AddressLine2: String?
+    //as could third line
+    let AddressLine3: String?
     let PostCode: String
     let RatingValue: String
     let RatingDate: String

@@ -50,5 +50,7 @@
 	<string>Can this app access location?</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Can this app access location?</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 </dict>
 </plist>
